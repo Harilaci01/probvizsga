@@ -1,0 +1,26 @@
+#pink{background-color: rgb(236, 132, 236);
+
+}
+h1{text-align: center;
+
+}
+#center{
+    text-align: center;
+}
+form{border: 1px solid blue;
+    margin: 50px;
+    margin-left:200px;
+    margin-right: 200px;
+    padding:20px;
+    text-align:left;
+    background-color: white;
+    display: flex;
+    justify-content: flex-start;
+}
+#submit{
+    background-color: cadetblue;
+}
+.fbox{
+    margin: 10px;
+    padding: 10px;
+}
